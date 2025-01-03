@@ -1,0 +1,22 @@
+Burada yaptığım gezi ve tatil planlayıcısı(Trivago,AirBnb) dataBase paylaştım. Şemada toplam 21 tablo vardır ve hepsi birbiriyle bağşantılıdır.
+users
+hotels
+rooms
+reservations
+reviews
+payment_methods
+transactions
+amenities
+hotel_amenities
+membership_packages
+favorites
+cancellations
+photos
+cities
+countries
+activities
+coupons
+car_rentals
+hotel_management
+flights
+flight_reservations
